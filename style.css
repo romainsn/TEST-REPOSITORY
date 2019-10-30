@@ -1,0 +1,20 @@
+body {
+    font-family:"merriweather";
+}
+
+h1 {
+    text-align: center;
+    margin: 25px 0 50px 0;
+}
+
+label {
+    color: #F32321;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
