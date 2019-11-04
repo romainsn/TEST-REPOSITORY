@@ -19,5 +19,15 @@ label {
     flex-direction: column;
     align-items: center;
 }
+button{
+    border:#F32321;
+    background-color:#F32321;
+    color: whitesmoke;
+}
+#look{
+    border:#F32321 1px solid;
+}
+
+
 
 

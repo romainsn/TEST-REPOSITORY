@@ -9,7 +9,7 @@
 //}
 function nomRecup() {
     let input = document.getElementById("look").value;
-    const regex = /\d/;
+    const regex = /[A-Z]/g;
     let found = input.match(regex);
     console.log(found);
     found ? console.log("trouvé") : console.log("pas trouvé");
